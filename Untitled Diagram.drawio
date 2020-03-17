@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2020-03-17T06:54:15.980Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="3ciamRMGIYn-zXMutSjH" version="12.8.5" type="github"><diagram id="HInmXpYPLYaViy3hxPmL" name="Page-1">3ZjRbqM4FIafxpdTgQ3EvoSUdkfqjCp1tXu5csAB7xgcGadJ5+nHDobUgc50V80m2quY3zbG3/lzfACgZbO/V3RTf5ElEwAG5R6gWwBhGMCF+bHKS68sgqQXKsXLXgqOwhP/zoaZTt3yknVO6yUtpdB844uFbFtWaE+jSsmdP2wtRekJG1ox7zGs8FRQwSbD/uSlrnsVD9uy+m+MV/WwcpiQvqehw2B3466mpdy9klAO0FJJqftWs18yYeH5XO7e6B0fTLFWv2fCt+SP+68Jvn38a9EV6uun5CH4/MkF45mKrduwe1j9MhB4ZkpzA+SBrph4lB3XXLamayW1lg1A2TAgFbyyHVpujFrrRpiL0DTHnQfmoqRdzUp30Wklv41g3diNXbjZV9ZQN1x2N/yxli2zc7kyMe6Xb6Wyk7JV9eSedVXdK8ZMX7bmQiylkOqwA1RShtfFuNyrnqTAbLU2PQ6D2Qnbv8k3HKNm7M5kw7R6MUPcBBL1M5zRw9gZYXe0TZzgXqtfWQaS2NnVWbUab32Mpmm4gP6D4C6mwc1jgDEgmW1kGchSkCdWye5ATgBZgCyaGEDJbVuOIdvVXLOnDS1s787EyI/1B4CEIfZIQowmJMMgnJKM8JlA4nmQKUiDQyMGaXyFIBEkVwYyDH+db1hpErC7tP9xWcmWivyoZj7H45gHaTPPgd7fTOsXd5rQrZZzbO1CPydrnktuVcF+siMyHwHFBNX82b//HE439VFys/IYuTgMbmIvdigi/k00VRXTbt5JWMYH+feRIjOWj2y+yHrv3wF8SCJkaV1/aadHUXBtToezOSPNQQptqrDcbqfeF8IUNuzXzGi36audNd9bzh8CEft5F5FgAnHg7DEMzsUwmjchBmk6uDE9UI1surW2RNaZp1QvwDLEiV8N4GhaDcRTlvG5aoEwnmF5OLEIBvnCFgMpuS4/njJEBF7YjzPVsjnsMQTY1AHGlXcgW1wXQ4jQlTGcK0qxzYtZfvDhrW1fFcMYhVeWF2fqUZjQxrJoV93msO3gfRIZNnPB0zsOfJOGeDEBnCQ3M+kSwTMhhnN/9bHAj+3ZnYYTcJc9vsnpkTOlOPD6bxhO/+q/s72eUNNW9D8YeO/pbf/y//ql3knUfXEoDCKmZj5FNLwsxVvx8G3+ERHAJzV7/L5kC8+VKOBcosj+xwEgfiKBQ8n/8QEwl8dPd/1L1/EDKMp/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-03-17T06:55:36.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="PlJAHYze2cVJB56u0KEJ" version="12.8.5" type="github">
+  <diagram id="HInmXpYPLYaViy3hxPmL" name="Page-1">
+    <mxGraphModel dx="1027" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k6VGN68DP_7scrN-6L0I-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;direction=north;bgStyle=bgGreen;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="94" y="159" width="568" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-7" value="创建房间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="218" y="283" width="101" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-8" value="加入房间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="329" y="283" width="101" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k6VGN68DP_7scrN-6L0I-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510.5" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-9" value="亲友圈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="283" width="101" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-12" value="客服" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="488" y="390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-14" value="个人头像" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="186" y="184" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-15" value="战绩" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="186" y="392" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-16" value="邀请" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="233" y="392" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-17" value="设置" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="531" y="390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-18" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 990" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="503" y="187" width="66.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-26" value="房卡" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="496" y="187" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-27" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="485" y="352" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k6VGN68DP_7scrN-6L0I-28" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="493" y="201" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
